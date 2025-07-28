@@ -11,3 +11,6 @@ class Solution:
             if len(str(num)) % 2 == 0:
                 count += 1
         return count
+
+solution = Solution()
+print(solution.findNumbers([21,323,432,44]))
