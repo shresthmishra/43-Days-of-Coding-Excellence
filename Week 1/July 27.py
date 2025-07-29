@@ -5,3 +5,10 @@
 Given a string s, return true if it is a palindrome, or false otherwise.
 '''
 
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        cleaned = ''.join(char.lower() for char in s if char.isalnum())
+        return cleaned == cleaned[::-1]
+    
+solution = Solution()
+print(solution.isPalindrome("Race a car"))
