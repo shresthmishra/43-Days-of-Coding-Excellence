@@ -1,6 +1,6 @@
 '''
-# Problem:
-Description: 
+# Problem: Roman to Integer
+Description: Given a roman numeral, convert it to an integer.
 '''
 
 class Solution:
@@ -26,3 +26,6 @@ class Solution:
                 
         num += roman_map[s[n-1]]
         return num
+    
+solution = Solution()
+print(solution.romanToInt("VII"))
