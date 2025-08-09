@@ -1,7 +1,6 @@
 '''
 # Problem: Next Round
-Description: memory limit per test
-256 megabytes
+# Description:
 
 "Contestant who earns a score equal to or greater than the k-th place finisher's score will advance to the next round, as long as the contestant earns a positive score..." — an excerpt from contest rules.
 

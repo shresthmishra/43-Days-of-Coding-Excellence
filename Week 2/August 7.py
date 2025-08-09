@@ -1,7 +1,6 @@
 '''
 # Problem: Word Capitalization
-Description:
-
+# Description:
 Capitalization is writing a word with its first letter as a capital letter. 
 Your task is to capitalize the given word.
 

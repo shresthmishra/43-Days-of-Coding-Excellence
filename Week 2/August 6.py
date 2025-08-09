@@ -1,6 +1,6 @@
 '''
 # Problem: Helpful Maths
-Description:
+# Description:
 Xenia the beginner mathematician is a third year student at elementary school. She is now learning the addition operation.
 The teacher has written down the sum of multiple numbers. Pupils should calculate the sum. 
 To make the calculation easier, the sum only contains numbers 1, 2 and 3. 

@@ -1,6 +1,6 @@
 '''
 # Problem: Petya and Strings
-Description: 
+# Description: 
 
 Little Petya loves presents. His mum bought him two strings of the same size for his birthday. 
 The strings consist of uppercase and lowercase Latin letters. 
