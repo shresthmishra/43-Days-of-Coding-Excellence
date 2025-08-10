@@ -12,3 +12,11 @@ So he came up with a way to recognize users' genders by their user names.
 This is his method: if the number of distinct characters in one's user name is odd, then he is a male, otherwise she is a female. 
 You are given the string that denotes the user name, please help our hero to determine the gender of this user by his method.
 '''
+
+username = input()
+distinct_chars = set(username)
+
+if len(distinct_chars) % 2 == 0:
+    print("CHAT WITH HER!")
+else:
+    print("IGNORE HIM!")
