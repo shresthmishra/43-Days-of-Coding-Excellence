@@ -7,9 +7,12 @@ He has to pay k dollars for the first banana, 2k dollars for the second one and 
 He has n dollars. How many dollars does he have to borrow from his friend soldier to buy w bananas?
 '''
 
-x = float(input())
-n = int(input())
+k, n, w = map(int, input().split())
 
-result = x ** n
+total_cost = k * w * (w + 1) // 2
+money_to_borrow = total_cost - n
 
-print(f"{result:.5f}")
+if money_to_borrow > 0:
+    print(money_to_borrow)
+else:
+    print(0)
