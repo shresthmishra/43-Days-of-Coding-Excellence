@@ -9,8 +9,6 @@ One problem per day, helpful in building fundamental programming skills. Honorin
 </div>
 
 
----
-
 Let's do this!
 
 Have a good one, until next time!
