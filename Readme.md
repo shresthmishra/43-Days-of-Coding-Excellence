@@ -2,7 +2,6 @@
 <br />
 <h1>Welcome to 43 Days of Coding Excellence!</h1>
 <br />
-<br />
 </div>
 <div>
 This is a Programming challenge as an initiative for Teachers Day '25 by PAT Cell of VIT Bhopal!
