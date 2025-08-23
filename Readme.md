@@ -1,4 +1,4 @@
-# Welcome to 43 Days of Coding Excellence! 🚀
+# Welcome to 43 Days of Coding Excellence!
 
 This is a programming challenge initiated by the **PAT Cell of VIT Bhopal** for **Teachers Day '25**.
 
