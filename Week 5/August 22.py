@@ -1,3 +1,11 @@
+'''
+# Problem: Anton and Darik
+Description:
+Anton likes to play chess, and so does his friend Danik.
+Once they have played n games in a row. For each game it's known who was the winner — Anton or Danik. None of the games ended with a tie.
+Now Anton wonders, who won more games, he or Danik? Help him determine this.
+'''
+
 import sys
 games_played = int(input())
 outcomes = sys.stdin.readline().strip()
