@@ -14,3 +14,24 @@ A coder's first contest isn't considered amazing.
 Now he wants to count the number of amazing performances the coder had throughout his whole history of participating in contests. 
 But the list of earned points turned out long and Vasya can't code... That's why he asks you to help him.
 '''
+
+n = int(input())
+points = list(map(int, input().split()))
+
+if n <= 1:
+    print(0)
+else:
+    amazing_count = 0
+    min_score = points[0]
+    max_score = points[0]
+
+    for i in range(1, n):
+        current_score = points[i]
+        if current_score > max_score:
+            amazing_count += 1
+            max_score = current_score
+        elif current_score < min_score:
+            amazing_count += 1
+            min_score = current_score
+            
+    print(amazing_count)
