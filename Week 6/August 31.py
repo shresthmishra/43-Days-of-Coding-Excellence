@@ -14,4 +14,3 @@ A coder's first contest isn't considered amazing.
 Now he wants to count the number of amazing performances the coder had throughout his whole history of participating in contests. 
 But the list of earned points turned out long and Vasya can't code... That's why he asks you to help him.
 '''
-
