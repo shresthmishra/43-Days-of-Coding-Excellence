@@ -5,11 +5,7 @@
 
 ## 🏆 Challenge Completed! 🏆
 
-**Status:** Officially completed on September 5, 2025.
-
----
-
-Happy Teachers' Day!
+**Status:** Officially completed on September 5, 2025. Happy Teachers' Day!
 
 ---
 
