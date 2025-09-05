@@ -1,11 +1,11 @@
-# Welcome to 43 Days of Coding Excellence!
+# 43 Days of Coding Excellence
 
-This is a programming challenge initiated by the **PAT Cell of VIT Bhopal** for **Teachers Day '25**.
+This repository archives my journey through the **"43 Days of Coding Excellence,"** a programming challenge initiated by the **PAT Cell of VIT Bhopal** for **Teachers Day '25**.
 
-The goal is to solve one problem per day for 43 days, helping to build fundamental programming skills while honoring our teachers through consistent practice.
+The challenge involved solving one problem every day for 43 days, helping to build fundamental programming skills while honoring our teachers through consistent practice.
 
-Let's do this!
+**The challenge was successfully completed on September 5, 2025!** All solutions can be found within this repository.
 
 ---
 
-*Have a good one, until next time!*
+*Have a great one! Until next time.*
